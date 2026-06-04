@@ -1,0 +1,44 @@
+name: Apple Music Albums
+
+on:
+  workflow_dispatch:
+
+  repository_dispatch:
+    types:
+      - update-albums
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Install
+        run: npm install
+
+      - name: Install Playwright
+        run: npx playwright install chromium
+
+      - name: Run scraper
+        run: npm run scrape
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+
+          git add .
+
+          git diff --staged --quiet || git commit -m "update apple music albums"
+
+          git push
