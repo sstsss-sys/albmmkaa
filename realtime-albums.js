@@ -273,7 +273,7 @@ null,
 );
 
 const BATCH_SIZE =
-10;
+5;
 for (
 let i = 0;
 i < countries.length;
