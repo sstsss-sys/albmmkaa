@@ -4,7 +4,7 @@
   "description": "",
   "main": "realtime-albums.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "scrape": "node realtime-albums.js"
   },
   "keywords": [],
   "author": "",
