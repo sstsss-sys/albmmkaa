@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T09:08:18.975Z",
+  "lastUpdated": "2026-06-06T11:08:14.184Z",
   "entries": [
     {
       "country": "Myanmar",
@@ -25,25 +25,14 @@
     },
     {
       "country": "Lithuania",
-      "rank": 7,
-      "previousRank": 13,
-      "change": "+6",
+      "rank": 5,
+      "previousRank": 7,
+      "change": "+2",
       "status": "up",
       "title": "MUSE",
       "artist": "Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
       "songLink": "https://music.apple.com/lt/album/muse/1751773074"
-    },
-    {
-      "country": "Uzbekistan",
-      "rank": 11,
-      "previousRank": 7,
-      "change": "-4",
-      "status": "down",
-      "title": "MUSE",
-      "artist": "Jimin",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
-      "songLink": "https://music.apple.com/uz/album/muse/1751773074"
     },
     {
       "country": "Belarus",
@@ -58,20 +47,31 @@
     },
     {
       "country": "Myanmar",
-      "rank": 27,
-      "previousRank": 23,
-      "change": "-4",
-      "status": "down",
+      "rank": 13,
+      "previousRank": 27,
+      "change": "+14",
+      "status": "up",
       "title": "FACE - EP",
       "artist": "Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
       "songLink": "https://music.apple.com/mm/album/face-ep/1676947234"
     },
     {
+      "country": "Uzbekistan",
+      "rank": 13,
+      "previousRank": 11,
+      "change": "-2",
+      "status": "down",
+      "title": "MUSE",
+      "artist": "Jimin",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
+      "songLink": "https://music.apple.com/uz/album/muse/1751773074"
+    },
+    {
       "country": "Yemen",
-      "rank": 43,
-      "previousRank": 33,
-      "change": "-10",
+      "rank": 55,
+      "previousRank": 43,
+      "change": "-12",
       "status": "down",
       "title": "MUSE",
       "artist": "Jimin",
@@ -80,20 +80,31 @@
     },
     {
       "country": "Norway",
-      "rank": 67,
+      "rank": 79,
       "previousRank": 67,
-      "change": "—",
-      "status": "stable",
+      "change": "-12",
+      "status": "down",
       "title": "MUSE",
       "artist": "Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
       "songLink": "https://music.apple.com/no/album/muse/1751773074"
     },
     {
+      "country": "Kazakhstan",
+      "rank": 109,
+      "previousRank": 129,
+      "change": "+20",
+      "status": "up",
+      "title": "MUSE",
+      "artist": "Jimin",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
+      "songLink": "https://music.apple.com/kz/album/muse/1751773074"
+    },
+    {
       "country": "Cape Verde",
-      "rank": 115,
-      "previousRank": 75,
-      "change": "-40",
+      "rank": 129,
+      "previousRank": 115,
+      "change": "-14",
       "status": "down",
       "title": "MUSE",
       "artist": "Jimin",
@@ -101,22 +112,11 @@
       "songLink": "https://music.apple.com/cv/album/muse/1751773074"
     },
     {
-      "country": "Kazakhstan",
-      "rank": 129,
-      "previousRank": 129,
-      "change": "—",
-      "status": "stable",
-      "title": "MUSE",
-      "artist": "Jimin",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
-      "songLink": "https://music.apple.com/kz/album/muse/1751773074"
-    },
-    {
       "country": "Bahrain",
-      "rank": 139,
+      "rank": 183,
       "previousRank": 139,
-      "change": "—",
-      "status": "stable",
+      "change": "-44",
+      "status": "down",
       "title": "MUSE",
       "artist": "Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
