@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T07:14:47.474Z",
+  "lastUpdated": "2026-06-07T09:13:33.848Z",
   "entries": [
     {
       "country": "Myanmar",
@@ -25,9 +25,9 @@
     },
     {
       "country": "Lithuania",
-      "rank": 3,
-      "previousRank": 5,
-      "change": "+2",
+      "rank": 2,
+      "previousRank": 3,
+      "change": "+1",
       "status": "up",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
@@ -36,8 +36,8 @@
     },
     {
       "country": "Belarus",
-      "rank": 9,
-      "previousRank": 8,
+      "rank": 10,
+      "previousRank": 9,
       "change": "-1",
       "status": "down",
       "title": "FACE - EP",
@@ -47,9 +47,9 @@
     },
     {
       "country": "Myanmar",
-      "rank": 11,
-      "previousRank": 10,
-      "change": "-1",
+      "rank": 18,
+      "previousRank": 11,
+      "change": "-7",
       "status": "down",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
@@ -57,21 +57,10 @@
       "songLink": "https://music.apple.com/mm/album/face-ep/1676947234"
     },
     {
-      "country": "Uzbekistan",
-      "rank": 33,
-      "previousRank": 28,
-      "change": "-5",
-      "status": "down",
-      "title": "MUSE",
-      "artist": "MUSE, Jimin",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
-      "songLink": "https://music.apple.com/uz/album/muse/1751773074"
-    },
-    {
       "country": "Kazakhstan",
-      "rank": 35,
-      "previousRank": 34,
-      "change": "-1",
+      "rank": 39,
+      "previousRank": 35,
+      "change": "-4",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
@@ -79,21 +68,21 @@
       "songLink": "https://music.apple.com/kz/album/muse/1751773074"
     },
     {
-      "country": "Costa Rica",
-      "rank": 75,
-      "previousRank": 83,
-      "change": "+8",
-      "status": "up",
+      "country": "Uzbekistan",
+      "rank": 39,
+      "previousRank": 33,
+      "change": "-6",
+      "status": "down",
       "title": "MUSE",
-      "artist": "MUSE y Jimin",
+      "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
-      "songLink": "https://music.apple.com/cr/album/muse/1751773074"
+      "songLink": "https://music.apple.com/uz/album/muse/1751773074"
     },
     {
       "country": "Yemen",
-      "rank": 78,
-      "previousRank": 71,
-      "change": "-7",
+      "rank": 79,
+      "previousRank": 78,
+      "change": "-1",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
@@ -101,10 +90,21 @@
       "songLink": "https://music.apple.com/ye/album/muse/1751773074"
     },
     {
+      "country": "Costa Rica",
+      "rank": 79,
+      "previousRank": 75,
+      "change": "-4",
+      "status": "down",
+      "title": "MUSE",
+      "artist": "MUSE y Jimin",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
+      "songLink": "https://music.apple.com/cr/album/muse/1751773074"
+    },
+    {
       "country": "Cape Verde",
-      "rank": 115,
-      "previousRank": 106,
-      "change": "-9",
+      "rank": 123,
+      "previousRank": 115,
+      "change": "-8",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
@@ -113,9 +113,9 @@
     },
     {
       "country": "Norway",
-      "rank": 174,
-      "previousRank": 158,
-      "change": "-16",
+      "rank": 179,
+      "previousRank": 174,
+      "change": "-5",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
@@ -124,9 +124,9 @@
     },
     {
       "country": "Argentina",
-      "rank": 187,
-      "previousRank": 150,
-      "change": "-37",
+      "rank": 188,
+      "previousRank": 187,
+      "change": "-1",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
