@@ -20,37 +20,29 @@ jobs:
           path: apple-music-album-private
           token: ${{ secrets.PAT_ALBUM }}
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-
-      - name: Install dependencies
-        working-directory: apple-music-album-private
-        run: npm install
-
-      - name: Install Playwright
-        working-directory: apple-music-album-private
-        run: npx playwright install chromium --with-deps
-
       - name: Sync ALL JSON to Dapur
         run: |
-          # COPY SEMUA FILE JSON TANPA TERKECUALI agar skrip tidak kelaparan data
+          # Perintah ini memaksa SEMUA file .json masuk ke folder skrip
+          # agar us-albums-history.json terbaca oleh skrip.
           cp -f *.json apple-music-album-private/
 
-      - name: Run Scraper
+      - name: Setup Node & Run
         working-directory: apple-music-album-private
-        run: node realtime-albums.js
+        run: |
+          npm install
+          npx playwright install chromium --with-deps
+          node realtime-albums.js
 
       - name: Move result back to Etalase
         run: |
-          # Pindahkan hasil dari Dapur ke root Etalase
+          # Mengambil kembali hasil update dan file history yang sudah ter-update
           cp -f apple-music-album-private/*.json .
 
-      - name: Commit and Push to Etalase
+      - name: Commit and Push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add *.json
-          git diff --staged --quiet || git commit -m "Sync & Update Album Data"
+          git diff --staged --quiet || git commit -m "Auto Update: Sync & Scrape"
           git push
+          
