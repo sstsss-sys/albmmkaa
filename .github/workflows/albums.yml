@@ -10,39 +10,51 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout Etalase (Public)
+      - name: Checkout public repo
         uses: actions/checkout@v4
 
-      - name: Checkout Dapur (Private)
-        uses: actions/checkout@v4
+      - name: Clone private repo
+        run: |
+          git clone https://x-access-token:${{ secrets.PAT_ALBUM }}@github.com/sstsss-sys/apple-music-album-private.git
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
-          repository: sstsss-sys/apple-music-album-private
-          path: apple-music-album-private
-          token: ${{ secrets.PAT_ALBUM }}
+          node-version: 20
 
-      - name: Sync ALL JSON to Dapur
-        run: |
-          # Perintah ini memaksa SEMUA file .json masuk ke folder skrip
-          # agar us-albums-history.json terbaca oleh skrip.
-          cp -f *.json apple-music-album-private/
-
-      - name: Setup Node & Run
+      - name: Install dependencies
         working-directory: apple-music-album-private
-        run: |
-          npm install
-          npx playwright install chromium --with-deps
-          node realtime-albums.js
+        run: npm install
 
-      - name: Move result back to Etalase
-        run: |
-          # Mengambil kembali hasil update dan file history yang sudah ter-update
-          cp -f apple-music-album-private/*.json .
+      - name: Install Playwright
+        working-directory: apple-music-album-private
+        run: npx playwright install chromium --with-deps
 
-      - name: Commit and Push
+      - name: Copy history files to private repo
+        run: |
+          cp -f us-albums-history.json apple-music-album-private/
+          cp -f apple-music-albums-history.json apple-music-album-private/
+          cp -f apple-music-albums-all-history.json apple-music-album-private/
+
+      - name: Run Scraper
+        working-directory: apple-music-album-private
+        run: node realtime-albums.js
+
+      - name: Copy generated files
+        run: |
+          cp -f apple-music-album-private/*.json . 2>/dev/null || true
+
+      - name: Commit updated files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add *.json
-          git diff --staged --quiet || git commit -m "Auto Update: Sync & Scrape"
-          git push
+
+          git add us-albums-history.json
+          git add apple-music-albums-history.json
+          git add apple-music-albums-all-history.json
+          git add apple-music-albums-realtime.json
+
+          # Cek perubahan konten, kalau nggak ada perubahan, nggak usah commit/push
+          git diff --staged --quiet || git commit -m "update apple music albums"
+          git diff --quiet || git push
           
