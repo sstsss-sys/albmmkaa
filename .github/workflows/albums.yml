@@ -45,19 +45,26 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # Copy balik 4 file spesifik ke root
-          cp -f apple-music-album-private/us-albums-history.json .
-          cp -f apple-music-album-private/apple-music-albums-history.json .
-          cp -f apple-music-album-private/apple-music-albums-all-history.json .
-          cp -f apple-music-album-private/apple-music-albums-realtime.json .
-          
-          # Rem Darurat: Cek apakah isi konten 4 file ini berubah
-          git add us-albums-history.json apple-music-albums-history.json apple-music-albums-all-history.json apple-music-albums-realtime.json
-          
-          if git diff --cached --quiet; then
-            echo "4 file tidak ada perubahan konten. Skip push."
+          # Cek apakah file hasil scrape ada di folder privat
+          # Jika skrip berhenti di awal (US chart tidak update), file tidak akan ada
+          if [ -f "apple-music-album-private/apple-music-albums-realtime.json" ]; then
+            echo "File ditemukan, melakukan sinkronisasi..."
+            cp -f apple-music-album-private/us-albums-history.json .
+            cp -f apple-music-album-private/apple-music-albums-history.json .
+            cp -f apple-music-album-private/apple-music-albums-all-history.json .
+            cp -f apple-music-album-private/apple-music-albums-realtime.json .
+            
+            git add us-albums-history.json apple-music-albums-history.json apple-music-albums-all-history.json apple-music-albums-realtime.json
+            
+            # Cek apakah isinya benar-benar berbeda
+            if git diff --cached --quiet; then
+              echo "Isi file sama, tidak ada yang perlu di-push."
+            else
+              git commit -m "Auto Update: Scrape Success"
+              git push
+            fi
           else
-            git commit -m "Auto Update: Scrape Success"
-            git push
+            echo "Tidak ada file baru (US chart tidak update). Selesai dengan sukses (Hijau)."
+            exit 0
           fi
           
