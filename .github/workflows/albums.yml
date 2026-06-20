@@ -30,31 +30,41 @@ jobs:
         working-directory: apple-music-album-private
         run: npx playwright install chromium --with-deps
 
-      - name: Copy history files to private repo
+      # LANGKAH PENENTU: Copy history biar skrip bisa baca US Chart di awal
+      - name: Sync history
         run: |
           cp -f us-albums-history.json apple-music-album-private/
           cp -f apple-music-albums-history.json apple-music-album-private/
           cp -f apple-music-albums-all-history.json apple-music-album-private/
 
+      # Skrip lu harusnya jalanin ini:
+      # 1. Load US Chart (dari file history yg tadi dicopy)
+      # 2. Scrape US Chart (realtime)
+      # 3. Bandingkan (US Compare)
+      # 4. Kalau sama, process.exit(0) / Berhenti
+      # 5. Kalau beda, baru lanjut scrape negara lain
       - name: Run Scraper
         working-directory: apple-music-album-private
         run: node realtime-albums.js
 
-      - name: Copy generated files
-        run: |
-          cp -f apple-music-album-private/*.json . 2>/dev/null || true
-
-      - name: Commit updated files
+      - name: Final Commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Copy hasil ke root
+          cp -f apple-music-album-private/us-albums-history.json .
+          cp -f apple-music-album-private/apple-music-albums-history.json .
+          cp -f apple-music-album-private/apple-music-albums-all-history.json .
+          cp -f apple-music-album-private/apple-music-albums-realtime.json .
 
-          git add us-albums-history.json
-          git add apple-music-albums-history.json
-          git add apple-music-albums-all-history.json
-          git add apple-music-albums-realtime.json
+          # Cek perubahan
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "US Chart tidak berubah, berhenti sekarang."
+            exit 0
+          fi
 
-          # Cek perubahan konten, kalau nggak ada perubahan, nggak usah commit/push
-          git diff --staged --quiet || git commit -m "update apple music albums"
-          git diff --quiet || git push
+          git add us-albums-history.json apple-music-albums-history.json apple-music-albums-all-history.json apple-music-albums-realtime.json
+          git commit -m "Auto Update: Scrape Success"
+          git push
           
