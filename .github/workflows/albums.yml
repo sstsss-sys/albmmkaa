@@ -30,41 +30,34 @@ jobs:
         working-directory: apple-music-album-private
         run: npx playwright install chromium --with-deps
 
-      # LANGKAH PENENTU: Copy history biar skrip bisa baca US Chart di awal
-      - name: Sync history
+      - name: Sync history to private
         run: |
           cp -f us-albums-history.json apple-music-album-private/
           cp -f apple-music-albums-history.json apple-music-album-private/
           cp -f apple-music-albums-all-history.json apple-music-album-private/
 
-      # Skrip lu harusnya jalanin ini:
-      # 1. Load US Chart (dari file history yg tadi dicopy)
-      # 2. Scrape US Chart (realtime)
-      # 3. Bandingkan (US Compare)
-      # 4. Kalau sama, process.exit(0) / Berhenti
-      # 5. Kalau beda, baru lanjut scrape negara lain
       - name: Run Scraper
         working-directory: apple-music-album-private
         run: node realtime-albums.js
 
-      - name: Final Commit
+      - name: Commit if changed
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # Copy hasil ke root
+          # Copy balik 4 file spesifik ke root
           cp -f apple-music-album-private/us-albums-history.json .
           cp -f apple-music-album-private/apple-music-albums-history.json .
           cp -f apple-music-album-private/apple-music-albums-all-history.json .
           cp -f apple-music-album-private/apple-music-albums-realtime.json .
-
-          # Cek perubahan
-          if [ -z "$(git status --porcelain)" ]; then
-            echo "US Chart tidak berubah, berhenti sekarang."
-            exit 0
-          fi
-
+          
+          # Rem Darurat: Cek apakah isi konten 4 file ini berubah
           git add us-albums-history.json apple-music-albums-history.json apple-music-albums-all-history.json apple-music-albums-realtime.json
-          git commit -m "Auto Update: Scrape Success"
-          git push
+          
+          if git diff --cached --quiet; then
+            echo "4 file tidak ada perubahan konten. Skip push."
+          else
+            git commit -m "Auto Update: Scrape Success"
+            git push
+          fi
           
