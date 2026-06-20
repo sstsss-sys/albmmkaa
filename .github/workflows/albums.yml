@@ -18,7 +18,7 @@ jobs:
         with:
           repository: sstsss-sys/apple-music-album-private
           path: apple-music-album-private
-          token: ${{ secrets.PAT_ALBUM }}
+          token: ${{ secrets.PAT_ALBUMKAA }}
 
       - name: Setup Node
         uses: actions/setup-node@v4
@@ -33,21 +33,28 @@ jobs:
         working-directory: apple-music-album-private
         run: npx playwright install chromium --with-deps
 
+      - name: Sync History from Etalase to Dapur
+        run: |
+          # Mengambil data history dari Etalase agar Dapur punya 'memori' untuk hitung rank
+          cp -f *.json apple-music-album-private/ || true
+
       - name: Run Scraper
         working-directory: apple-music-album-private
         run: node realtime-albums.js
 
       - name: Move result to Etalase
         run: |
-          # Copy file JSON hasil generate ke repo publik
+          # Mengembalikan file hasil update ke Etalase untuk di-publish
           cp -f apple-music-album-private/apple-music-albums-realtime.json .
-          # Opsional: Jika ingin mempublikasikan file history juga
           cp -f apple-music-album-private/apple-music-albums-history.json . || true
+          cp -f apple-music-album-private/apple-music-albums-all-history.json . || true
+          cp -f apple-music-album-private/us-albums-history.json . || true
 
       - name: Commit and Push to Etalase
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add *.json
-          git diff --staged --quiet || git commit -m "Update Apple Music albums data"
+          git diff --staged --quiet || git commit -m "Update Album Chart Data [Automated]"
           git push
+          
