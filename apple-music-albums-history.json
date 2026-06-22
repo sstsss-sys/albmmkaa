@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-22T07:14:44.731Z",
+  "lastUpdated": "2026-06-22T09:12:34.856Z",
   "entries": [
     {
       "country": "Myanmar",
@@ -69,9 +69,9 @@
     },
     {
       "country": "Costa Rica",
-      "rank": 133,
-      "previousRank": 131,
-      "change": "-2",
+      "rank": 184,
+      "previousRank": 133,
+      "change": "-51",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
@@ -79,22 +79,11 @@
       "songLink": "https://music.apple.com/cr/album/muse/1751773074"
     },
     {
-      "country": "Sri Lanka",
-      "rank": 149,
-      "previousRank": 149,
-      "change": "—",
-      "status": "stable",
-      "title": "FACE - EP",
-      "artist": "FACE - EP, Jimin",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
-      "songLink": "https://music.apple.com/lk/album/face-ep/1676947234"
-    },
-    {
       "country": "Kazakhstan",
-      "rank": 167,
+      "rank": 195,
       "previousRank": 167,
-      "change": "—",
-      "status": "stable",
+      "change": "-28",
+      "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
