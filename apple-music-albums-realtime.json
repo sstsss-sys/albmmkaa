@@ -1,5 +1,5 @@
 {
-  "updatedDate": "2026-06-23T19:13:57.307Z",
+  "updatedDate": "2026-06-23T21:18:13.412Z",
   "totalEntries": 7,
   "entries": [
     {
@@ -25,33 +25,33 @@
       "songLink": "https://music.apple.com/by/album/muse/1751773074"
     },
     {
-      "country": "Belarus",
-      "rank": 8,
-      "previousRank": 5,
-      "change": "-3",
-      "status": "down",
-      "title": "FACE - EP",
-      "artist": "FACE - EP, Jimin",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
-      "songLink": "https://music.apple.com/by/album/face-ep/1676947234"
-    },
-    {
       "country": "Uzbekistan",
-      "rank": 27,
-      "previousRank": 23,
-      "change": "-4",
-      "status": "down",
+      "rank": 5,
+      "previousRank": 27,
+      "change": "+22",
+      "status": "up",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
       "songLink": "https://music.apple.com/uz/album/muse/1751773074"
     },
     {
+      "country": "Belarus",
+      "rank": 8,
+      "previousRank": 8,
+      "change": "—",
+      "status": "stable",
+      "title": "FACE - EP",
+      "artist": "FACE - EP, Jimin",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
+      "songLink": "https://music.apple.com/by/album/face-ep/1676947234"
+    },
+    {
       "country": "Myanmar",
       "rank": 49,
-      "previousRank": 38,
-      "change": "-11",
-      "status": "down",
+      "previousRank": 49,
+      "change": "—",
+      "status": "stable",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
@@ -59,9 +59,9 @@
     },
     {
       "country": "Costa Rica",
-      "rank": 78,
-      "previousRank": 77,
-      "change": "-1",
+      "rank": 93,
+      "previousRank": 78,
+      "change": "-15",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
@@ -70,9 +70,9 @@
     },
     {
       "country": "Cape Verde",
-      "rank": 101,
-      "previousRank": 85,
-      "change": "-16",
+      "rank": 126,
+      "previousRank": 101,
+      "change": "-25",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
