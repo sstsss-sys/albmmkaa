@@ -1,6 +1,6 @@
 {
-  "updatedDate": "2026-06-25T17:14:12.448Z",
-  "totalEntries": 13,
+  "updatedDate": "2026-06-25T19:15:11.619Z",
+  "totalEntries": 9,
   "entries": [
     {
       "country": "Belarus",
@@ -27,9 +27,9 @@
     {
       "country": "Norway",
       "rank": 15,
-      "previousRank": 40,
-      "change": "+25",
-      "status": "up",
+      "previousRank": 15,
+      "change": "—",
+      "status": "stable",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
@@ -38,30 +38,19 @@
     {
       "country": "Uzbekistan",
       "rank": 23,
-      "previousRank": 10,
-      "change": "-13",
-      "status": "down",
+      "previousRank": 23,
+      "change": "—",
+      "status": "stable",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
       "songLink": "https://music.apple.com/uz/album/muse/1751773074"
     },
     {
-      "country": "Belarus",
-      "rank": 55,
-      "previousRank": 46,
-      "change": "-9",
-      "status": "down",
-      "title": "FACE - EP",
-      "artist": "FACE - EP, Jimin",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
-      "songLink": "https://music.apple.com/by/album/face-ep/1676947234"
-    },
-    {
       "country": "Costa Rica",
-      "rank": 57,
-      "previousRank": 66,
-      "change": "+9",
+      "rank": 54,
+      "previousRank": 57,
+      "change": "+3",
       "status": "up",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
@@ -70,32 +59,21 @@
     },
     {
       "country": "Myanmar",
-      "rank": 64,
-      "previousRank": 51,
-      "change": "-13",
-      "status": "down",
+      "rank": 63,
+      "previousRank": 64,
+      "change": "+1",
+      "status": "up",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
       "songLink": "https://music.apple.com/mm/album/face-ep/1676947234"
     },
     {
-      "country": "Oman",
-      "rank": 73,
-      "previousRank": 183,
-      "change": "+110",
-      "status": "up",
-      "title": "MUSE",
-      "artist": "MUSE, Jimin",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
-      "songLink": "https://music.apple.com/om/album/muse/1751773074"
-    },
-    {
       "country": "Kazakhstan",
-      "rank": 88,
-      "previousRank": 77,
-      "change": "-11",
-      "status": "down",
+      "rank": 71,
+      "previousRank": 88,
+      "change": "+17",
+      "status": "up",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
@@ -103,9 +81,9 @@
     },
     {
       "country": "Argentina",
-      "rank": 91,
-      "previousRank": 74,
-      "change": "-17",
+      "rank": 113,
+      "previousRank": 91,
+      "change": "-22",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
@@ -114,36 +92,14 @@
     },
     {
       "country": "Cape Verde",
-      "rank": 98,
-      "previousRank": 59,
-      "change": "-39",
+      "rank": 114,
+      "previousRank": 98,
+      "change": "-16",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
       "songLink": "https://music.apple.com/cv/album/muse/1751773074"
-    },
-    {
-      "country": "Oman",
-      "rank": 171,
-      "previousRank": 112,
-      "change": "-59",
-      "status": "down",
-      "title": "FACE - EP",
-      "artist": "FACE - EP, Jimin",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
-      "songLink": "https://music.apple.com/om/album/face-ep/1676947234"
-    },
-    {
-      "country": "Venezuela",
-      "rank": 199,
-      "previousRank": 195,
-      "change": "-4",
-      "status": "down",
-      "title": "MUSE",
-      "artist": "MUSE y Jimin",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
-      "songLink": "https://music.apple.com/ve/album/muse/1751773074"
     }
   ]
 }
