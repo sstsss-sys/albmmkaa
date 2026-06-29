@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2026-06-29T01:14:44.935Z",
+  "lastUpdated": "2026-06-29T03:14:03.218Z",
   "entries": [
+    {
+      "country": "Myanmar",
+      "rank": 1,
+      "previousRank": 2,
+      "change": "+1",
+      "status": "up",
+      "title": "MUSE",
+      "artist": "MUSE, Jimin",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
+      "songLink": "https://music.apple.com/mm/album/muse/1751773074"
+    },
     {
       "country": "Lithuania",
       "rank": 1,
@@ -11,17 +22,6 @@
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
       "songLink": "https://music.apple.com/lt/album/muse/1751773074"
-    },
-    {
-      "country": "Myanmar",
-      "rank": 2,
-      "previousRank": 2,
-      "change": "—",
-      "status": "stable",
-      "title": "MUSE",
-      "artist": "MUSE, Jimin",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
-      "songLink": "https://music.apple.com/mm/album/muse/1751773074"
     },
     {
       "country": "Belarus",
@@ -35,33 +35,55 @@
       "songLink": "https://music.apple.com/by/album/muse/1751773074"
     },
     {
-      "country": "Uzbekistan",
-      "rank": 3,
-      "previousRank": 3,
-      "change": "—",
-      "status": "stable",
-      "title": "MUSE",
-      "artist": "MUSE, Jimin",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
-      "songLink": "https://music.apple.com/uz/album/muse/1751773074"
-    },
-    {
       "country": "Oman",
       "rank": 4,
-      "previousRank": 3,
-      "change": "-1",
-      "status": "down",
+      "previousRank": 4,
+      "change": "—",
+      "status": "stable",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
       "songLink": "https://music.apple.com/om/album/muse/1751773074"
     },
     {
+      "country": "Uzbekistan",
+      "rank": 6,
+      "previousRank": 3,
+      "change": "-3",
+      "status": "down",
+      "title": "MUSE",
+      "artist": "MUSE, Jimin",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
+      "songLink": "https://music.apple.com/uz/album/muse/1751773074"
+    },
+    {
+      "country": "Myanmar",
+      "rank": 13,
+      "previousRank": 29,
+      "change": "+16",
+      "status": "up",
+      "title": "FACE - EP",
+      "artist": "FACE - EP, Jimin",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
+      "songLink": "https://music.apple.com/mm/album/face-ep/1676947234"
+    },
+    {
+      "country": "Belarus",
+      "rank": 15,
+      "previousRank": 27,
+      "change": "+12",
+      "status": "up",
+      "title": "FACE - EP",
+      "artist": "FACE - EP, Jimin",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
+      "songLink": "https://music.apple.com/by/album/face-ep/1676947234"
+    },
+    {
       "country": "Norway",
-      "rank": 8,
+      "rank": 15,
       "previousRank": 8,
-      "change": "—",
-      "status": "stable",
+      "change": "-7",
+      "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
@@ -69,42 +91,20 @@
     },
     {
       "country": "Kazakhstan",
-      "rank": 17,
-      "previousRank": 21,
-      "change": "+4",
-      "status": "up",
+      "rank": 19,
+      "previousRank": 17,
+      "change": "-2",
+      "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
       "songLink": "https://music.apple.com/kz/album/muse/1751773074"
     },
     {
-      "country": "Belarus",
-      "rank": 27,
-      "previousRank": 27,
-      "change": "—",
-      "status": "stable",
-      "title": "FACE - EP",
-      "artist": "FACE - EP, Jimin",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
-      "songLink": "https://music.apple.com/by/album/face-ep/1676947234"
-    },
-    {
-      "country": "Myanmar",
-      "rank": 29,
-      "previousRank": null,
-      "change": "RE",
-      "status": "RE",
-      "title": "FACE - EP",
-      "artist": "FACE - EP, Jimin",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
-      "songLink": "https://music.apple.com/mm/album/face-ep/1676947234"
-    },
-    {
       "country": "Costa Rica",
-      "rank": 65,
-      "previousRank": 58,
-      "change": "-7",
+      "rank": 66,
+      "previousRank": 65,
+      "change": "-1",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
@@ -113,9 +113,9 @@
     },
     {
       "country": "Argentina",
-      "rank": 81,
-      "previousRank": 64,
-      "change": "-17",
+      "rank": 83,
+      "previousRank": 81,
+      "change": "-2",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
