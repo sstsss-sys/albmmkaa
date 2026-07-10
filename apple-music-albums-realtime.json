@@ -1,5 +1,5 @@
 {
-  "updatedDate": "2026-07-10T01:14:52.663Z",
+  "updatedDate": "2026-07-10T03:14:11.931Z",
   "totalEntries": 8,
   "entries": [
     {
@@ -38,9 +38,9 @@
     {
       "country": "Myanmar",
       "rank": 4,
-      "previousRank": 5,
-      "change": "+1",
-      "status": "up",
+      "previousRank": 4,
+      "change": "—",
+      "status": "stable",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
@@ -60,35 +60,35 @@
     {
       "country": "Kazakhstan",
       "rank": 46,
-      "previousRank": null,
-      "change": "RE",
-      "status": "RE",
+      "previousRank": 46,
+      "change": "—",
+      "status": "stable",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
       "songLink": "https://music.apple.com/kz/album/muse/1751773074"
     },
     {
-      "country": "Yemen",
-      "rank": 91,
-      "previousRank": 83,
-      "change": "-8",
-      "status": "down",
-      "title": "MUSE",
-      "artist": "MUSE, Jimin",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
-      "songLink": "https://music.apple.com/ye/album/muse/1751773074"
-    },
-    {
       "country": "Costa Rica",
-      "rank": 91,
-      "previousRank": 88,
-      "change": "-3",
-      "status": "down",
+      "rank": 80,
+      "previousRank": 91,
+      "change": "+11",
+      "status": "up",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
       "songLink": "https://music.apple.com/cr/album/muse/1751773074"
+    },
+    {
+      "country": "Yemen",
+      "rank": 90,
+      "previousRank": 91,
+      "change": "+1",
+      "status": "up",
+      "title": "MUSE",
+      "artist": "MUSE, Jimin",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
+      "songLink": "https://music.apple.com/ye/album/muse/1751773074"
     }
   ]
 }
