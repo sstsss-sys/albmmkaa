@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-13T11:14:40.535Z",
+  "lastUpdated": "2026-07-13T13:13:17.741Z",
   "entries": [
     {
       "country": "Myanmar",
@@ -48,9 +48,9 @@
     {
       "country": "Myanmar",
       "rank": 5,
-      "previousRank": 4,
-      "change": "-1",
-      "status": "down",
+      "previousRank": 5,
+      "change": "—",
+      "status": "stable",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
@@ -68,10 +68,21 @@
       "songLink": "https://music.apple.com/by/album/face-ep/1676947234"
     },
     {
+      "country": "Costa Rica",
+      "rank": 65,
+      "previousRank": 174,
+      "change": "+109",
+      "status": "up",
+      "title": "MUSE",
+      "artist": "MUSE y Jimin",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
+      "songLink": "https://music.apple.com/cr/album/muse/1751773074"
+    },
+    {
       "country": "Venezuela",
-      "rank": 73,
-      "previousRank": 62,
-      "change": "-11",
+      "rank": 77,
+      "previousRank": 73,
+      "change": "-4",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
@@ -80,25 +91,14 @@
     },
     {
       "country": "Argentina",
-      "rank": 173,
+      "rank": 152,
       "previousRank": 173,
-      "change": "—",
-      "status": "stable",
+      "change": "+21",
+      "status": "up",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
       "songLink": "https://music.apple.com/ar/album/muse/1751773074"
-    },
-    {
-      "country": "Costa Rica",
-      "rank": 174,
-      "previousRank": 173,
-      "change": "-1",
-      "status": "down",
-      "title": "MUSE",
-      "artist": "MUSE y Jimin",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
-      "songLink": "https://music.apple.com/cr/album/muse/1751773074"
     }
   ]
 }
