@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-21T05:14:24.087Z",
+  "lastUpdated": "2026-07-21T07:14:17.437Z",
   "entries": [
     {
       "country": "Myanmar",
@@ -15,9 +15,9 @@
     {
       "country": "Belarus",
       "rank": 2,
-      "previousRank": 1,
-      "change": "-1",
-      "status": "down",
+      "previousRank": 2,
+      "change": "—",
+      "status": "stable",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
@@ -26,9 +26,9 @@
     {
       "country": "Myanmar",
       "rank": 4,
-      "previousRank": 5,
-      "change": "+1",
-      "status": "up",
+      "previousRank": 4,
+      "change": "—",
+      "status": "stable",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
@@ -80,9 +80,9 @@
     },
     {
       "country": "Argentina",
-      "rank": 52,
-      "previousRank": 60,
-      "change": "+8",
+      "rank": 51,
+      "previousRank": 52,
+      "change": "+1",
       "status": "up",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
@@ -91,9 +91,9 @@
     },
     {
       "country": "Kazakhstan",
-      "rank": 71,
-      "previousRank": 81,
-      "change": "+10",
+      "rank": 54,
+      "previousRank": 71,
+      "change": "+17",
       "status": "up",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
