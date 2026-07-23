@@ -1,5 +1,5 @@
 {
-  "updatedDate": "2026-07-23T21:14:41.625Z",
+  "updatedDate": "2026-07-23T23:14:06.251Z",
   "totalEntries": 8,
   "entries": [
     {
@@ -27,9 +27,9 @@
     {
       "country": "Belarus",
       "rank": 5,
-      "previousRank": 4,
-      "change": "-1",
-      "status": "down",
+      "previousRank": 5,
+      "change": "—",
+      "status": "stable",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
@@ -38,9 +38,9 @@
     {
       "country": "Myanmar",
       "rank": 6,
-      "previousRank": 13,
-      "change": "+7",
-      "status": "up",
+      "previousRank": 6,
+      "change": "—",
+      "status": "stable",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
@@ -49,9 +49,9 @@
     {
       "country": "Uzbekistan",
       "rank": 18,
-      "previousRank": 12,
-      "change": "-6",
-      "status": "down",
+      "previousRank": 18,
+      "change": "—",
+      "status": "stable",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
@@ -59,9 +59,9 @@
     },
     {
       "country": "Sri Lanka",
-      "rank": 61,
-      "previousRank": 38,
-      "change": "-23",
+      "rank": 73,
+      "previousRank": 61,
+      "change": "-12",
       "status": "down",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
@@ -69,26 +69,26 @@
       "songLink": "https://music.apple.com/lk/album/face-ep/1676947234"
     },
     {
+      "country": "Cape Verde",
+      "rank": 84,
+      "previousRank": null,
+      "change": "RE",
+      "status": "RE",
+      "title": "MUSE",
+      "artist": "MUSE, Jimin",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
+      "songLink": "https://music.apple.com/cv/album/muse/1751773074"
+    },
+    {
       "country": "Costa Rica",
-      "rank": 81,
-      "previousRank": 79,
-      "change": "-2",
+      "rank": 88,
+      "previousRank": 81,
+      "change": "-7",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
       "songLink": "https://music.apple.com/cr/album/muse/1751773074"
-    },
-    {
-      "country": "Argentina",
-      "rank": 192,
-      "previousRank": 189,
-      "change": "-3",
-      "status": "down",
-      "title": "MUSE",
-      "artist": "MUSE y Jimin",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
-      "songLink": "https://music.apple.com/ar/album/muse/1751773074"
     }
   ]
 }
