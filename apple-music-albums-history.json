@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T21:14:15.419Z",
+  "lastUpdated": "2026-07-31T23:14:11.800Z",
   "entries": [
     {
       "country": "Myanmar",
@@ -36,9 +36,9 @@
     },
     {
       "country": "Norway",
-      "rank": 5,
-      "previousRank": 4,
-      "change": "-1",
+      "rank": 7,
+      "previousRank": 5,
+      "change": "-2",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
@@ -47,9 +47,9 @@
     },
     {
       "country": "Belarus",
-      "rank": 41,
-      "previousRank": 24,
-      "change": "-17",
+      "rank": 56,
+      "previousRank": 41,
+      "change": "-15",
       "status": "down",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
@@ -58,8 +58,8 @@
     },
     {
       "country": "Costa Rica",
-      "rank": 62,
-      "previousRank": 59,
+      "rank": 65,
+      "previousRank": 62,
       "change": "-3",
       "status": "down",
       "title": "MUSE",
@@ -69,9 +69,9 @@
     },
     {
       "country": "Kyrgyzstan",
-      "rank": 99,
-      "previousRank": 71,
-      "change": "-28",
+      "rank": 105,
+      "previousRank": 99,
+      "change": "-6",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
