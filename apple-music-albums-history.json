@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-11T23:14:37.273Z",
+  "lastUpdated": "2026-08-12T01:13:54.383Z",
   "entries": [
     {
       "country": "Belarus",
@@ -15,9 +15,9 @@
     {
       "country": "Myanmar",
       "rank": 5,
-      "previousRank": 4,
-      "change": "-1",
-      "status": "down",
+      "previousRank": 5,
+      "change": "—",
+      "status": "stable",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
@@ -25,9 +25,9 @@
     },
     {
       "country": "Belarus",
-      "rank": 10,
-      "previousRank": 8,
-      "change": "-2",
+      "rank": 11,
+      "previousRank": 10,
+      "change": "-1",
       "status": "down",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
@@ -36,9 +36,9 @@
     },
     {
       "country": "Uzbekistan",
-      "rank": 14,
-      "previousRank": 10,
-      "change": "-4",
+      "rank": 17,
+      "previousRank": 14,
+      "change": "-3",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
@@ -47,9 +47,9 @@
     },
     {
       "country": "Costa Rica",
-      "rank": 79,
-      "previousRank": 77,
-      "change": "-2",
+      "rank": 84,
+      "previousRank": 79,
+      "change": "-5",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
@@ -57,10 +57,21 @@
       "songLink": "https://music.apple.com/cr/album/muse/1751773074"
     },
     {
+      "country": "Iraq",
+      "rank": 89,
+      "previousRank": null,
+      "change": "RE",
+      "status": "RE",
+      "title": "MUSE",
+      "artist": "MUSE, Jimin",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
+      "songLink": "https://music.apple.com/iq/album/muse/1751773074"
+    },
+    {
       "country": "Myanmar",
-      "rank": 87,
-      "previousRank": 79,
-      "change": "-8",
+      "rank": 91,
+      "previousRank": 87,
+      "change": "-4",
       "status": "down",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
