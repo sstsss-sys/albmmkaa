@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T19:14:41.756Z",
+  "lastUpdated": "2026-08-13T21:13:44.348Z",
   "entries": [
     {
       "country": "Belarus",
@@ -14,9 +14,9 @@
     },
     {
       "country": "Belarus",
-      "rank": 12,
-      "previousRank": 8,
-      "change": "-4",
+      "rank": 15,
+      "previousRank": 12,
+      "change": "-3",
       "status": "down",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
@@ -25,9 +25,9 @@
     },
     {
       "country": "Myanmar",
-      "rank": 84,
-      "previousRank": 79,
-      "change": "-5",
+      "rank": 103,
+      "previousRank": 84,
+      "change": "-19",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
@@ -35,26 +35,26 @@
       "songLink": "https://music.apple.com/mm/album/muse/1751773074"
     },
     {
-      "country": "Venezuela",
+      "country": "Costa Rica",
       "rank": 142,
-      "previousRank": 134,
-      "change": "-8",
+      "previousRank": 192,
+      "change": "+50",
+      "status": "up",
+      "title": "MUSE",
+      "artist": "MUSE y Jimin",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
+      "songLink": "https://music.apple.com/cr/album/muse/1751773074"
+    },
+    {
+      "country": "Venezuela",
+      "rank": 177,
+      "previousRank": 142,
+      "change": "-35",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
       "songLink": "https://music.apple.com/ve/album/muse/1751773074"
-    },
-    {
-      "country": "Costa Rica",
-      "rank": 192,
-      "previousRank": 190,
-      "change": "-2",
-      "status": "down",
-      "title": "MUSE",
-      "artist": "MUSE y Jimin",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
-      "songLink": "https://music.apple.com/cr/album/muse/1751773074"
     }
   ]
 }
