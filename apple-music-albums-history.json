@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-18T23:14:20.629Z",
+  "lastUpdated": "2026-08-19T01:14:48.355Z",
   "entries": [
     {
       "country": "Belarus",
@@ -14,10 +14,10 @@
     },
     {
       "country": "Cape Verde",
-      "rank": 36,
-      "previousRank": null,
-      "change": "RE",
-      "status": "RE",
+      "rank": 49,
+      "previousRank": 36,
+      "change": "-13",
+      "status": "down",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
@@ -25,10 +25,10 @@
     },
     {
       "country": "Norway",
-      "rank": 107,
+      "rank": 80,
       "previousRank": 107,
-      "change": "—",
-      "status": "stable",
+      "change": "+27",
+      "status": "up",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
@@ -36,10 +36,10 @@
     },
     {
       "country": "Costa Rica",
-      "rank": 113,
-      "previousRank": 107,
-      "change": "-6",
-      "status": "down",
+      "rank": 112,
+      "previousRank": 113,
+      "change": "+1",
+      "status": "up",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
