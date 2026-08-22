@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T09:14:13.240Z",
+  "lastUpdated": "2026-08-22T11:14:01.550Z",
   "entries": [
     {
       "country": "Belarus",
@@ -15,9 +15,9 @@
     {
       "country": "Belarus",
       "rank": 4,
-      "previousRank": 6,
-      "change": "+2",
-      "status": "up",
+      "previousRank": 4,
+      "change": "—",
+      "status": "stable",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
@@ -25,8 +25,8 @@
     },
     {
       "country": "Maldives",
-      "rank": 30,
-      "previousRank": 19,
+      "rank": 41,
+      "previousRank": 30,
       "change": "-11",
       "status": "down",
       "title": "MUSE",
@@ -36,9 +36,9 @@
     },
     {
       "country": "Myanmar",
-      "rank": 73,
-      "previousRank": 61,
-      "change": "-12",
+      "rank": 96,
+      "previousRank": 73,
+      "change": "-23",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
@@ -47,25 +47,14 @@
     },
     {
       "country": "Costa Rica",
-      "rank": 111,
-      "previousRank": 108,
-      "change": "-3",
-      "status": "down",
+      "rank": 96,
+      "previousRank": 111,
+      "change": "+15",
+      "status": "up",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
       "songLink": "https://music.apple.com/cr/album/muse/1751773074"
-    },
-    {
-      "country": "Kazakhstan",
-      "rank": 174,
-      "previousRank": 172,
-      "change": "-2",
-      "status": "down",
-      "title": "MUSE",
-      "artist": "MUSE, Jimin",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
-      "songLink": "https://music.apple.com/kz/album/muse/1751773074"
     }
   ]
 }
