@@ -1,6 +1,6 @@
 {
-  "updatedDate": "2026-08-22T11:14:01.550Z",
-  "totalEntries": 5,
+  "updatedDate": "2026-08-22T13:14:37.466Z",
+  "totalEntries": 6,
   "entries": [
     {
       "country": "Belarus",
@@ -27,19 +27,30 @@
     {
       "country": "Maldives",
       "rank": 41,
-      "previousRank": 30,
-      "change": "-11",
-      "status": "down",
+      "previousRank": 41,
+      "change": "—",
+      "status": "stable",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
       "songLink": "https://music.apple.com/mv/album/muse/1751773074"
     },
     {
+      "country": "Costa Rica",
+      "rank": 81,
+      "previousRank": 96,
+      "change": "+15",
+      "status": "up",
+      "title": "MUSE",
+      "artist": "MUSE y Jimin",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
+      "songLink": "https://music.apple.com/cr/album/muse/1751773074"
+    },
+    {
       "country": "Myanmar",
-      "rank": 96,
-      "previousRank": 73,
-      "change": "-23",
+      "rank": 122,
+      "previousRank": 96,
+      "change": "-26",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
@@ -47,15 +58,15 @@
       "songLink": "https://music.apple.com/mm/album/muse/1751773074"
     },
     {
-      "country": "Costa Rica",
-      "rank": 96,
-      "previousRank": 111,
-      "change": "+15",
-      "status": "up",
+      "country": "Argentina",
+      "rank": 182,
+      "previousRank": null,
+      "change": "RE",
+      "status": "RE",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
-      "songLink": "https://music.apple.com/cr/album/muse/1751773074"
+      "songLink": "https://music.apple.com/ar/album/muse/1751773074"
     }
   ]
 }
