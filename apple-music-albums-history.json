@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T01:14:28.291Z",
+  "lastUpdated": "2026-08-23T03:13:58.212Z",
   "entries": [
     {
       "country": "Belarus",
@@ -25,10 +25,10 @@
     },
     {
       "country": "Maldives",
-      "rank": 79,
+      "rank": 72,
       "previousRank": 79,
-      "change": "—",
-      "status": "stable",
+      "change": "+7",
+      "status": "up",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
@@ -36,10 +36,10 @@
     },
     {
       "country": "Myanmar",
-      "rank": 125,
+      "rank": 91,
       "previousRank": 125,
-      "change": "—",
-      "status": "stable",
+      "change": "+34",
+      "status": "up",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
@@ -47,10 +47,10 @@
     },
     {
       "country": "Costa Rica",
-      "rank": 131,
+      "rank": 162,
       "previousRank": 131,
-      "change": "—",
-      "status": "stable",
+      "change": "-31",
+      "status": "down",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
