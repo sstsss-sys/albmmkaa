@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-23T09:14:39.233Z",
+  "lastUpdated": "2026-08-23T11:14:05.711Z",
   "entries": [
     {
       "country": "Belarus",
@@ -25,9 +25,9 @@
     },
     {
       "country": "Myanmar",
-      "rank": 80,
-      "previousRank": 63,
-      "change": "-17",
+      "rank": 99,
+      "previousRank": 80,
+      "change": "-19",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
@@ -36,9 +36,9 @@
     },
     {
       "country": "Maldives",
-      "rank": 92,
-      "previousRank": 82,
-      "change": "-10",
+      "rank": 100,
+      "previousRank": 92,
+      "change": "-8",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
@@ -47,9 +47,9 @@
     },
     {
       "country": "Costa Rica",
-      "rank": 171,
-      "previousRank": 168,
-      "change": "-3",
+      "rank": 193,
+      "previousRank": 171,
+      "change": "-22",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
