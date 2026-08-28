@@ -1,6 +1,6 @@
 {
-  "updatedDate": "2026-08-28T21:14:29.698Z",
-  "totalEntries": 4,
+  "updatedDate": "2026-08-28T23:14:06.038Z",
+  "totalEntries": 3,
   "entries": [
     {
       "country": "Belarus",
@@ -27,24 +27,13 @@
     {
       "country": "Norway",
       "rank": 9,
-      "previousRank": 7,
-      "change": "-2",
-      "status": "down",
-      "title": "MUSE",
-      "artist": "MUSE, Jimin",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
-      "songLink": "https://music.apple.com/no/album/muse/1751773074"
-    },
-    {
-      "country": "Myanmar",
-      "rank": 51,
-      "previousRank": 51,
+      "previousRank": 9,
       "change": "—",
       "status": "stable",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
-      "songLink": "https://music.apple.com/mm/album/muse/1751773074"
+      "songLink": "https://music.apple.com/no/album/muse/1751773074"
     }
   ]
 }
