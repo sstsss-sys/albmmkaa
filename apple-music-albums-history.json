@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-05T15:14:37.618Z",
+  "lastUpdated": "2026-09-05T17:14:36.123Z",
   "entries": [
     {
       "country": "Belarus",
@@ -14,10 +14,10 @@
     },
     {
       "country": "Belarus",
-      "rank": 5,
-      "previousRank": 17,
-      "change": "+12",
-      "status": "up",
+      "rank": 6,
+      "previousRank": 5,
+      "change": "-1",
+      "status": "down",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
@@ -25,9 +25,9 @@
     },
     {
       "country": "Venezuela",
-      "rank": 44,
-      "previousRank": 39,
-      "change": "-5",
+      "rank": 50,
+      "previousRank": 44,
+      "change": "-6",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
@@ -36,9 +36,9 @@
     },
     {
       "country": "Venezuela",
-      "rank": 137,
-      "previousRank": 127,
-      "change": "-10",
+      "rank": 166,
+      "previousRank": 137,
+      "change": "-29",
       "status": "down",
       "title": "FACE - EP",
       "artist": "Explícita y FACE - EP y Jimin",
