@@ -1,5 +1,5 @@
 {
-  "updatedDate": "2026-09-05T21:14:13.086Z",
+  "updatedDate": "2026-09-05T23:14:16.147Z",
   "totalEntries": 3,
   "entries": [
     {
@@ -15,8 +15,8 @@
     },
     {
       "country": "Belarus",
-      "rank": 9,
-      "previousRank": 6,
+      "rank": 12,
+      "previousRank": 9,
       "change": "-3",
       "status": "down",
       "title": "FACE - EP",
@@ -26,8 +26,8 @@
     },
     {
       "country": "Venezuela",
-      "rank": 72,
-      "previousRank": 50,
+      "rank": 94,
+      "previousRank": 72,
       "change": "-22",
       "status": "down",
       "title": "MUSE",
