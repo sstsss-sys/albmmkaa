@@ -1,5 +1,5 @@
 {
-  "updatedDate": "2026-09-06T03:13:41.263Z",
+  "updatedDate": "2026-09-06T07:14:41.366Z",
   "totalEntries": 3,
   "entries": [
     {
@@ -15,9 +15,9 @@
     },
     {
       "country": "Belarus",
-      "rank": 11,
-      "previousRank": 12,
-      "change": "+1",
+      "rank": 3,
+      "previousRank": 11,
+      "change": "+8",
       "status": "up",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
@@ -26,9 +26,9 @@
     },
     {
       "country": "Venezuela",
-      "rank": 110,
-      "previousRank": 108,
-      "change": "-2",
+      "rank": 194,
+      "previousRank": 110,
+      "change": "-84",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
