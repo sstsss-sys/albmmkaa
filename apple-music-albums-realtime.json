@@ -1,5 +1,5 @@
 {
-  "updatedDate": "2026-09-10T01:14:38.563Z",
+  "updatedDate": "2026-09-10T03:14:16.418Z",
   "totalEntries": 4,
   "entries": [
     {
@@ -15,10 +15,10 @@
     },
     {
       "country": "Belarus",
-      "rank": 3,
+      "rank": 5,
       "previousRank": 3,
-      "change": "—",
-      "status": "stable",
+      "change": "-2",
+      "status": "down",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
@@ -37,9 +37,9 @@
     },
     {
       "country": "Lithuania",
-      "rank": 176,
-      "previousRank": 157,
-      "change": "-19",
+      "rank": 179,
+      "previousRank": 176,
+      "change": "-3",
       "status": "down",
       "title": "Jiminy",
       "artist": "Jiminy, Bear Ghost",
