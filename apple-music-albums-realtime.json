@@ -1,5 +1,5 @@
 {
-  "updatedDate": "2026-09-09T23:13:41.733Z",
+  "updatedDate": "2026-09-10T01:14:38.563Z",
   "totalEntries": 4,
   "entries": [
     {
@@ -37,10 +37,10 @@
     },
     {
       "country": "Lithuania",
-      "rank": 157,
-      "previousRank": null,
-      "change": "RE",
-      "status": "RE",
+      "rank": 176,
+      "previousRank": 157,
+      "change": "-19",
+      "status": "down",
       "title": "Jiminy",
       "artist": "Jiminy, Bear Ghost",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ef/74/5b/ef745bb1-76a6-8673-ed82-d538c077f9aa/859777891959_cover.jpg/296x296bf.webp",
