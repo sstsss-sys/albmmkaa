@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-11T19:14:14.989Z",
+  "lastUpdated": "2026-09-11T21:12:27.619Z",
   "entries": [
     {
       "country": "Belarus",
@@ -25,9 +25,9 @@
     },
     {
       "country": "Norway",
-      "rank": 20,
-      "previousRank": 10,
-      "change": "-10",
+      "rank": 24,
+      "previousRank": 20,
+      "change": "-4",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
@@ -36,9 +36,9 @@
     },
     {
       "country": "Maldives",
-      "rank": 47,
-      "previousRank": 32,
-      "change": "-15",
+      "rank": 52,
+      "previousRank": 47,
+      "change": "-5",
       "status": "down",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
@@ -47,9 +47,9 @@
     },
     {
       "country": "Maldives",
-      "rank": 77,
-      "previousRank": 69,
-      "change": "-8",
+      "rank": 87,
+      "previousRank": 77,
+      "change": "-10",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
@@ -58,14 +58,25 @@
     },
     {
       "country": "Lebanon",
-      "rank": 103,
-      "previousRank": 186,
-      "change": "+83",
-      "status": "up",
+      "rank": 133,
+      "previousRank": 103,
+      "change": "-30",
+      "status": "down",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
       "songLink": "https://music.apple.com/lb/album/face-ep/1676947234"
+    },
+    {
+      "country": "Malta",
+      "rank": 151,
+      "previousRank": null,
+      "change": "RE",
+      "status": "RE",
+      "title": "FACE - EP",
+      "artist": "FACE - EP, Jimin",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
+      "songLink": "https://music.apple.com/mt/album/face-ep/1676947234"
     }
   ]
 }
