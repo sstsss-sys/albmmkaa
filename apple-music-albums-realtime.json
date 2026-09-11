@@ -1,5 +1,5 @@
 {
-  "updatedDate": "2026-09-11T15:13:51.848Z",
+  "updatedDate": "2026-09-11T19:14:14.989Z",
   "totalEntries": 6,
   "entries": [
     {
@@ -16,9 +16,9 @@
     {
       "country": "Belarus",
       "rank": 5,
-      "previousRank": 18,
-      "change": "+13",
-      "status": "up",
+      "previousRank": 5,
+      "change": "—",
+      "status": "stable",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
@@ -26,9 +26,9 @@
     },
     {
       "country": "Norway",
-      "rank": 10,
-      "previousRank": 8,
-      "change": "-2",
+      "rank": 20,
+      "previousRank": 10,
+      "change": "-10",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
@@ -37,10 +37,10 @@
     },
     {
       "country": "Maldives",
-      "rank": 32,
-      "previousRank": null,
-      "change": "NEW",
-      "status": "NEW",
+      "rank": 47,
+      "previousRank": 32,
+      "change": "-15",
+      "status": "down",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
@@ -48,8 +48,8 @@
     },
     {
       "country": "Maldives",
-      "rank": 69,
-      "previousRank": 61,
+      "rank": 77,
+      "previousRank": 69,
       "change": "-8",
       "status": "down",
       "title": "MUSE",
@@ -59,10 +59,10 @@
     },
     {
       "country": "Lebanon",
-      "rank": 186,
-      "previousRank": null,
-      "change": "RE",
-      "status": "RE",
+      "rank": 103,
+      "previousRank": 186,
+      "change": "+83",
+      "status": "up",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
