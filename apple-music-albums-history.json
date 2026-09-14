@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T09:13:56.183Z",
+  "lastUpdated": "2026-09-14T11:13:54.524Z",
   "entries": [
     {
       "country": "Belarus",
@@ -14,10 +14,10 @@
     },
     {
       "country": "Norway",
-      "rank": 25,
-      "previousRank": 28,
-      "change": "+3",
-      "status": "up",
+      "rank": 33,
+      "previousRank": 25,
+      "change": "-8",
+      "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
@@ -25,9 +25,9 @@
     },
     {
       "country": "Belarus",
-      "rank": 64,
-      "previousRank": 42,
-      "change": "-22",
+      "rank": 136,
+      "previousRank": 64,
+      "change": "-72",
       "status": "down",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
@@ -36,9 +36,9 @@
     },
     {
       "country": "Costa Rica",
-      "rank": 136,
-      "previousRank": 132,
-      "change": "-4",
+      "rank": 163,
+      "previousRank": 136,
+      "change": "-27",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
