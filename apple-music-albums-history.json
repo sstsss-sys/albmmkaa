@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-09-17T09:14:33.530Z",
+  "lastUpdated": "2026-09-17T13:14:55.056Z",
   "entries": [
     {
       "country": "Belarus",
-      "rank": 44,
-      "previousRank": 33,
-      "change": "-11",
-      "status": "down",
+      "rank": 22,
+      "previousRank": 44,
+      "change": "+22",
+      "status": "up",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
@@ -14,10 +14,10 @@
     },
     {
       "country": "Costa Rica",
-      "rank": 59,
-      "previousRank": 56,
-      "change": "-3",
-      "status": "down",
+      "rank": 57,
+      "previousRank": 59,
+      "change": "+2",
+      "status": "up",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
@@ -25,25 +25,14 @@
     },
     {
       "country": "Kazakhstan",
-      "rank": 152,
-      "previousRank": 123,
-      "change": "-29",
-      "status": "down",
+      "rank": 138,
+      "previousRank": 152,
+      "change": "+14",
+      "status": "up",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
       "songLink": "https://music.apple.com/kz/album/muse/1751773074"
-    },
-    {
-      "country": "Norway",
-      "rank": 178,
-      "previousRank": 172,
-      "change": "-6",
-      "status": "down",
-      "title": "MUSE",
-      "artist": "MUSE, Jimin",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
-      "songLink": "https://music.apple.com/no/album/muse/1751773074"
     }
   ]
 }
