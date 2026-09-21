@@ -1,6 +1,6 @@
 {
-  "updatedDate": "2026-09-21T11:14:05.314Z",
-  "totalEntries": 3,
+  "updatedDate": "2026-09-21T13:14:31.928Z",
+  "totalEntries": 2,
   "entries": [
     {
       "country": "Belarus",
@@ -15,25 +15,14 @@
     },
     {
       "country": "Cape Verde",
-      "rank": 153,
-      "previousRank": 150,
-      "change": "-3",
-      "status": "down",
+      "rank": 138,
+      "previousRank": 153,
+      "change": "+15",
+      "status": "up",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
       "songLink": "https://music.apple.com/cv/album/face-ep/1676947234"
-    },
-    {
-      "country": "Belarus",
-      "rank": 159,
-      "previousRank": 90,
-      "change": "-69",
-      "status": "down",
-      "title": "FACE - EP",
-      "artist": "FACE - EP, Jimin",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
-      "songLink": "https://music.apple.com/by/album/face-ep/1676947234"
     }
   ]
 }
