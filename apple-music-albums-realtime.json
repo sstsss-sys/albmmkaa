@@ -1,17 +1,28 @@
 {
-  "updatedDate": "2026-09-22T03:14:42.355Z",
-  "totalEntries": 1,
+  "updatedDate": "2026-09-22T05:10:40.789Z",
+  "totalEntries": 2,
   "entries": [
     {
       "country": "Belarus",
       "rank": 7,
-      "previousRank": 6,
-      "change": "-1",
-      "status": "down",
+      "previousRank": 7,
+      "change": "—",
+      "status": "stable",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
       "songLink": "https://music.apple.com/by/album/muse/1751773074"
+    },
+    {
+      "country": "Costa Rica",
+      "rank": 148,
+      "previousRank": null,
+      "change": "RE",
+      "status": "RE",
+      "title": "MUSE",
+      "artist": "MUSE y Jimin",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
+      "songLink": "https://music.apple.com/cr/album/muse/1751773074"
     }
   ]
 }
