@@ -1,6 +1,6 @@
 {
-  "updatedDate": "2026-09-24T09:14:42.606Z",
-  "totalEntries": 4,
+  "updatedDate": "2026-09-24T11:14:31.013Z",
+  "totalEntries": 5,
   "entries": [
     {
       "country": "Myanmar",
@@ -25,10 +25,21 @@
       "songLink": "https://music.apple.com/mm/album/face-ep/1676947234"
     },
     {
+      "country": "Costa Rica",
+      "rank": 67,
+      "previousRank": 92,
+      "change": "+25",
+      "status": "up",
+      "title": "MUSE",
+      "artist": "MUSE y Jimin",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
+      "songLink": "https://music.apple.com/cr/album/muse/1751773074"
+    },
+    {
       "country": "Belarus",
-      "rank": 77,
-      "previousRank": 65,
-      "change": "-12",
+      "rank": 148,
+      "previousRank": 77,
+      "change": "-71",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
@@ -36,15 +47,15 @@
       "songLink": "https://music.apple.com/by/album/muse/1751773074"
     },
     {
-      "country": "Costa Rica",
-      "rank": 92,
-      "previousRank": 89,
-      "change": "-3",
-      "status": "down",
+      "country": "Norway",
+      "rank": 166,
+      "previousRank": null,
+      "change": "RE",
+      "status": "RE",
       "title": "MUSE",
-      "artist": "MUSE y Jimin",
+      "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
-      "songLink": "https://music.apple.com/cr/album/muse/1751773074"
+      "songLink": "https://music.apple.com/no/album/muse/1751773074"
     }
   ]
 }
