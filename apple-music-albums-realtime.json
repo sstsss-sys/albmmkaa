@@ -1,5 +1,5 @@
 {
-  "updatedDate": "2026-09-28T09:14:27.574Z",
+  "updatedDate": "2026-09-28T11:12:54.824Z",
   "totalEntries": 4,
   "entries": [
     {
@@ -27,9 +27,9 @@
     {
       "country": "Norway",
       "rank": 8,
-      "previousRank": 11,
-      "change": "+3",
-      "status": "up",
+      "previousRank": 8,
+      "change": "—",
+      "status": "stable",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
@@ -37,9 +37,9 @@
     },
     {
       "country": "Costa Rica",
-      "rank": 79,
-      "previousRank": 136,
-      "change": "+57",
+      "rank": 64,
+      "previousRank": 79,
+      "change": "+15",
       "status": "up",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
