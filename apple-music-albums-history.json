@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-03T03:14:12.696Z",
+  "lastUpdated": "2026-10-03T05:12:05.360Z",
   "entries": [
     {
       "country": "Myanmar",
@@ -37,9 +37,9 @@
     {
       "country": "Bhutan",
       "rank": 36,
-      "previousRank": 34,
-      "change": "-2",
-      "status": "down",
+      "previousRank": 36,
+      "change": "—",
+      "status": "stable",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
@@ -47,9 +47,9 @@
     },
     {
       "country": "Venezuela",
-      "rank": 65,
-      "previousRank": 49,
-      "change": "-16",
+      "rank": 88,
+      "previousRank": 65,
+      "change": "-23",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
@@ -58,9 +58,9 @@
     },
     {
       "country": "Venezuela",
-      "rank": 86,
-      "previousRank": 81,
-      "change": "-5",
+      "rank": 122,
+      "previousRank": 86,
+      "change": "-36",
       "status": "down",
       "title": "FACE - EP",
       "artist": "Explícita y FACE - EP y Jimin",
