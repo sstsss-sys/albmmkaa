@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T21:14:55.204Z",
+  "lastUpdated": "2026-10-10T23:14:28.605Z",
   "entries": [
     {
       "country": "Belarus",
@@ -15,9 +15,9 @@
     {
       "country": "Myanmar",
       "rank": 3,
-      "previousRank": null,
-      "change": "RE",
-      "status": "RE",
+      "previousRank": 3,
+      "change": "—",
+      "status": "stable",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
@@ -37,9 +37,9 @@
     {
       "country": "Myanmar",
       "rank": 95,
-      "previousRank": null,
-      "change": "RE",
-      "status": "RE",
+      "previousRank": 95,
+      "change": "—",
+      "status": "stable",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
@@ -48,9 +48,9 @@
     {
       "country": "Belarus",
       "rank": 132,
-      "previousRank": 118,
-      "change": "-14",
-      "status": "down",
+      "previousRank": 132,
+      "change": "—",
+      "status": "stable",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
