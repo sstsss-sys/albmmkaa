@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-10-15T15:13:18.186Z",
+  "lastUpdated": "2026-10-15T17:13:15.011Z",
   "entries": [
     {
       "country": "Belarus",
-      "rank": 3,
+      "rank": 2,
       "previousRank": 3,
-      "change": "—",
-      "status": "stable",
+      "change": "+1",
+      "status": "up",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
@@ -14,10 +14,10 @@
     },
     {
       "country": "Costa Rica",
-      "rank": 106,
-      "previousRank": 135,
-      "change": "+29",
-      "status": "up",
+      "rank": 126,
+      "previousRank": 106,
+      "change": "-20",
+      "status": "down",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
