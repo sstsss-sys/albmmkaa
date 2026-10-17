@@ -1,11 +1,11 @@
 {
-  "lastUpdated": "2026-10-17T19:11:32.922Z",
+  "lastUpdated": "2026-10-17T21:11:06.851Z",
   "entries": [
     {
       "country": "Belarus",
-      "rank": 3,
-      "previousRank": 10,
-      "change": "+7",
+      "rank": 2,
+      "previousRank": 3,
+      "change": "+1",
       "status": "up",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
@@ -14,8 +14,8 @@
     },
     {
       "country": "Myanmar",
-      "rank": 13,
-      "previousRank": 11,
+      "rank": 15,
+      "previousRank": 13,
       "change": "-2",
       "status": "down",
       "title": "MUSE",
