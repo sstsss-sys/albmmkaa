@@ -1,12 +1,12 @@
 {
-  "lastUpdated": "2026-10-19T05:14:55.247Z",
+  "lastUpdated": "2026-10-19T07:14:34.227Z",
   "entries": [
     {
       "country": "Belarus",
       "rank": 9,
-      "previousRank": 7,
-      "change": "-2",
-      "status": "down",
+      "previousRank": 9,
+      "change": "—",
+      "status": "stable",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
@@ -14,9 +14,9 @@
     },
     {
       "country": "Gambia",
-      "rank": 129,
-      "previousRank": 115,
-      "change": "-14",
+      "rank": 136,
+      "previousRank": 129,
+      "change": "-7",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
@@ -25,9 +25,9 @@
     },
     {
       "country": "Myanmar",
-      "rank": 130,
-      "previousRank": 125,
-      "change": "-5",
+      "rank": 158,
+      "previousRank": 130,
+      "change": "-28",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
