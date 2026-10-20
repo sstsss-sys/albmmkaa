@@ -1,5 +1,5 @@
 {
-  "updatedDate": "2026-10-20T03:14:30.895Z",
+  "updatedDate": "2026-10-20T05:12:57.141Z",
   "totalEntries": 2,
   "entries": [
     {
@@ -15,10 +15,10 @@
     },
     {
       "country": "Belarus",
-      "rank": 175,
-      "previousRank": 164,
-      "change": "-11",
-      "status": "down",
+      "rank": 173,
+      "previousRank": 175,
+      "change": "+2",
+      "status": "up",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
