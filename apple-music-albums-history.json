@@ -1,38 +1,38 @@
 {
-  "lastUpdated": "2026-10-21T15:14:28.358Z",
+  "lastUpdated": "2026-10-21T21:14:23.102Z",
   "entries": [
     {
       "country": "Belarus",
-      "rank": 7,
+      "rank": 18,
       "previousRank": 7,
-      "change": "—",
-      "status": "stable",
+      "change": "-11",
+      "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
       "songLink": "https://music.apple.com/by/album/muse/1751773074"
     },
     {
+      "country": "Cambodia",
+      "rank": 156,
+      "previousRank": null,
+      "change": "NEW",
+      "status": "NEW",
+      "title": "FACE - EP",
+      "artist": "FACE - EP, Jimin",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
+      "songLink": "https://music.apple.com/kh/album/face-ep/1676947234"
+    },
+    {
       "country": "Belarus",
-      "rank": 130,
-      "previousRank": 60,
-      "change": "-70",
+      "rank": 193,
+      "previousRank": 130,
+      "change": "-63",
       "status": "down",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
       "songLink": "https://music.apple.com/by/album/face-ep/1676947234"
-    },
-    {
-      "country": "Gambia",
-      "rank": 154,
-      "previousRank": 128,
-      "change": "-26",
-      "status": "down",
-      "title": "MUSE",
-      "artist": "MUSE, Jimin",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
-      "songLink": "https://music.apple.com/gm/album/muse/1751773074"
     }
   ]
 }
