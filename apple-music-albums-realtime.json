@@ -1,5 +1,5 @@
 {
-  "updatedDate": "2026-10-23T21:14:31.083Z",
+  "updatedDate": "2026-10-23T23:13:12.842Z",
   "totalEntries": 2,
   "entries": [
     {
@@ -15,9 +15,9 @@
     },
     {
       "country": "Norway",
-      "rank": 34,
-      "previousRank": 39,
-      "change": "+5",
+      "rank": 32,
+      "previousRank": 34,
+      "change": "+2",
       "status": "up",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
