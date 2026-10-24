@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T05:12:11.072Z",
+  "lastUpdated": "2026-10-24T07:12:40.646Z",
   "entries": [
     {
       "country": "Belarus",
@@ -14,10 +14,10 @@
     },
     {
       "country": "Norway",
-      "rank": 24,
+      "rank": 15,
       "previousRank": 24,
-      "change": "—",
-      "status": "stable",
+      "change": "+9",
+      "status": "up",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
