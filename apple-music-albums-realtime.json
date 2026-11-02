@@ -1,12 +1,12 @@
 {
-  "updatedDate": "2026-11-02T07:14:21.091Z",
+  "updatedDate": "2026-11-02T09:14:35.102Z",
   "totalEntries": 1,
   "entries": [
     {
       "country": "Costa Rica",
-      "rank": 100,
-      "previousRank": 133,
-      "change": "+33",
+      "rank": 80,
+      "previousRank": 100,
+      "change": "+20",
       "status": "up",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
