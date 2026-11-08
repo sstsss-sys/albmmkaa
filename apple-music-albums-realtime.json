@@ -1,5 +1,5 @@
 {
-  "updatedDate": "2026-11-08T05:12:18.413Z",
+  "updatedDate": "2026-11-08T07:11:17.321Z",
   "totalEntries": 5,
   "entries": [
     {
@@ -15,9 +15,9 @@
     },
     {
       "country": "Norway",
-      "rank": 20,
-      "previousRank": 21,
-      "change": "+1",
+      "rank": 13,
+      "previousRank": 20,
+      "change": "+7",
       "status": "up",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
@@ -26,9 +26,9 @@
     },
     {
       "country": "Costa Rica",
-      "rank": 86,
-      "previousRank": 85,
-      "change": "-1",
+      "rank": 105,
+      "previousRank": 86,
+      "change": "-19",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
@@ -37,9 +37,9 @@
     },
     {
       "country": "Gambia",
-      "rank": 135,
-      "previousRank": 133,
-      "change": "-2",
+      "rank": 166,
+      "previousRank": 135,
+      "change": "-31",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
@@ -48,9 +48,9 @@
     },
     {
       "country": "Cape Verde",
-      "rank": 155,
-      "previousRank": 150,
-      "change": "-5",
+      "rank": 190,
+      "previousRank": 155,
+      "change": "-35",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
