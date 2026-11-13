@@ -1,5 +1,5 @@
 {
-  "updatedDate": "2026-11-12T23:12:39.739Z",
+  "updatedDate": "2026-11-13T01:14:04.426Z",
   "totalEntries": 3,
   "entries": [
     {
@@ -15,9 +15,9 @@
     },
     {
       "country": "Costa Rica",
-      "rank": 98,
-      "previousRank": 95,
-      "change": "-3",
+      "rank": 126,
+      "previousRank": 98,
+      "change": "-28",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
@@ -26,9 +26,9 @@
     },
     {
       "country": "Cape Verde",
-      "rank": 162,
-      "previousRank": 148,
-      "change": "-14",
+      "rank": 185,
+      "previousRank": 162,
+      "change": "-23",
       "status": "down",
       "title": "FACE - EP",
       "artist": "FACE - EP, Jimin",
