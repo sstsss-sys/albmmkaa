@@ -1,5 +1,5 @@
 {
-  "updatedDate": "2026-11-13T05:11:33.416Z",
+  "updatedDate": "2026-11-13T07:14:34.460Z",
   "totalEntries": 2,
   "entries": [
     {
@@ -15,10 +15,10 @@
     },
     {
       "country": "Costa Rica",
-      "rank": 156,
-      "previousRank": 155,
-      "change": "-1",
-      "status": "down",
+      "rank": 153,
+      "previousRank": 156,
+      "change": "+3",
+      "status": "up",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
