@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T15:11:25.992Z",
+  "lastUpdated": "2026-11-14T19:13:33.169Z",
   "entries": [
     {
       "country": "Belarus",
@@ -13,10 +13,21 @@
       "songLink": "https://music.apple.com/by/album/muse/1751773074"
     },
     {
+      "country": "Belarus",
+      "rank": 117,
+      "previousRank": null,
+      "change": "RE",
+      "status": "RE",
+      "title": "FACE - EP",
+      "artist": "FACE - EP, Jimin",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/41/a1/a5/41a1a5cb-22ac-0cef-a48c-5d00b1727320/196922330674_Cover.jpg/296x296bf.webp",
+      "songLink": "https://music.apple.com/by/album/face-ep/1676947234"
+    },
+    {
       "country": "Costa Rica",
-      "rank": 157,
-      "previousRank": 146,
-      "change": "-11",
+      "rank": 172,
+      "previousRank": 157,
+      "change": "-15",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
