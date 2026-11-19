@@ -5,7 +5,7 @@ on:
 
 jobs:
   update-albums:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     permissions:
       contents: write
 
@@ -67,4 +67,3 @@ jobs:
             echo "Tidak ada file baru (US chart tidak update). Selesai dengan sukses (Hijau)."
             exit 0
           fi
-          
