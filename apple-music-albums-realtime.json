@@ -1,13 +1,13 @@
 {
-  "updatedDate": "2026-11-22T07:14:11.677Z",
+  "updatedDate": "2026-11-22T09:12:45.025Z",
   "totalEntries": 2,
   "entries": [
     {
       "country": "Belarus",
-      "rank": 3,
+      "rank": 4,
       "previousRank": 3,
-      "change": "—",
-      "status": "stable",
+      "change": "-1",
+      "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
@@ -15,10 +15,10 @@
     },
     {
       "country": "Norway",
-      "rank": 114,
-      "previousRank": 113,
-      "change": "-1",
-      "status": "down",
+      "rank": 48,
+      "previousRank": 114,
+      "change": "+66",
+      "status": "up",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/Music211/v4/94/b5/84/94b58450-a0cd-ab97-2f30-0ed3608b5e24/196922987588_Cover.jpg/296x296bf.webp",
