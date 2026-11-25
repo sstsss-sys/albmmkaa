@@ -1,5 +1,5 @@
 {
-  "updatedDate": "2026-11-24T23:11:26.776Z",
+  "updatedDate": "2026-11-25T01:11:36.708Z",
   "totalEntries": 3,
   "entries": [
     {
@@ -15,9 +15,9 @@
     },
     {
       "country": "Belarus",
-      "rank": 71,
-      "previousRank": 47,
-      "change": "-24",
+      "rank": 80,
+      "previousRank": 71,
+      "change": "-9",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE, Jimin",
@@ -26,9 +26,9 @@
     },
     {
       "country": "Paraguay",
-      "rank": 117,
-      "previousRank": 101,
-      "change": "-16",
+      "rank": 121,
+      "previousRank": 117,
+      "change": "-4",
       "status": "down",
       "title": "MUSE",
       "artist": "MUSE y Jimin",
